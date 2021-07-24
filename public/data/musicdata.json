@@ -1,0 +1,49 @@
+{
+    "musicData": [{
+      "title": "我要你",
+      "artist":"任素汐",
+      "src": "http://m10.music.126.net/20210723224552/576f2819506b50f28c5833eb05bdc4c1/ymusic/6a9b/e44a/0b02/980d535cf12abc7679285d9f73dd9f6c.mp3",
+      "pic": "https://p1.music.126.net/tczb_7II9KzSuLQsVt89Gw==/109951163049336667.jpg",
+      "lrc":"http://192.168.31.224:8080/lrc/我要你.lrc"
+    
+    },
+      {
+        "title": "说谎",
+        "artist": "林宥嘉",
+        "src": "http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_608341&response=res&type=convert_url&",
+        "pic": "https://p2.music.126.net/mMZNB-jhYsw29K61QtopJA==/109951163187404137.jpg",
+        "lrc":"http://192.168.31.224:8080/lrc/说谎.lrc"
+     
+      },
+      {
+        "title": "成都",
+        "artist": "赵磊",
+        "src": "http://m10.music.126.net/20210723224716/cae2c23bcf370cb11fd2571e28d6827c/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/3058353562/b3f5/c60c/2c1e/5af571f454b5e60a050725ffb8c7edf0.mp3",
+        "pic": "https://p1.music.126.net/34YW1QtKxJ_3YnX9ZzKhzw==/2946691234868155.jpg",
+        "lrc":"http://192.168.31.224:8080/lrc/成都.lrc"
+       
+
+      },
+      {
+        "title": "陪你到底",
+        "artist": "许华升",
+        "src": "http://m10.music.126.net/20210723224756/572cd0ce9971c614beb21c69360b808b/ymusic/3551/cebf/329f/1c1c058bdcd137f53909e97e5f91329d.mp3",
+        "pic": "https://p1.music.126.net/a7QkLGexMQGT2lF3mqcUdw==/109951163693319625.jpg",
+        "lrc":"http://192.168.31.224:8080/lrc/陪你到底.lrc"
+    
+      },
+      {
+       "title": "广东爱情故事",
+        "artist": "雨神",
+        "src": "https://sharefs.ali.kugou.com/202107232223/f23148dcdb1b5096b724737c9e15a042/KGTX/CLTX001/2c8b398f22b36c6372256b140161c151.mp3",
+        "pic": "https://p1.music.126.net/gjvguk9I-QwuyWFjQHM9SA==/109951163189947600.jpg",
+        "lrc":"http://192.168.31.224:8080/lrc/广东爱情故事.lrc"
+      },
+      {
+        "title": "烟火里的尘埃",
+       "artist": "华晨宇",
+        "src": "http://m10.music.126.net/20210723231143/c464ae687421a327b123cccbf1668b89/ymusic/5d63/5150/0851/5f226aac018cafc2cb248f7d28fbd5b4.mp3",
+        "pic": "http://m10.music.126.net/20210723231143/c464ae687421a327b123cccbf1668b89/ymusic/5d63/5150/0851/5f226aac018cafc2cb248f7d28fbd5b4.mp3",
+        "lrc":"http://192.168.31.224:8080/lrc/烟火里的尘埃.lrc"
+      }]
+  }
